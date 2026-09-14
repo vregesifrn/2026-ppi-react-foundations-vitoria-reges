@@ -24,10 +24,11 @@
         }
 
         function HomePage() {
-          return <div>
-            {/* Nesting the Header component */}
-            <Header />
-            </div>;
+          return (
+            <div>
+            <Header title="React" />
+            </div>
+          );
         }
 
       const root = createRoot(domNode);
