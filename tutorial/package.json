@@ -1,23 +1,4 @@
 {
-  "name": "2026-ppi-react-foundations-vitoria-reges",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/vregesifrn/2026-ppi-react-foundations-vitoria-reges.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
-  "bugs": {
-    "url": "https://github.com/vregesifrn/2026-ppi-react-foundations-vitoria-reges/issues"
-  },
-  "homepage": "https://github.com/vregesifrn/2026-ppi-react-foundations-vitoria-reges#readme",
   "dependencies": {
     "next": "^16.3.5",
     "react": "^19.3.0",
